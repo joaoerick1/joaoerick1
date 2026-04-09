@@ -1,6 +1,6 @@
 # Olá Mundo! Eu sou o João Erick 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=450&lines=Desenvolvedor+em+Forma%C3%A7%C3%A3o;Foco+em+Python+%7C+JS+%7C+MySQL;Estagi%C3%A1rio+com+Vis%C3%A3o+de+Neg%C3%B3cios" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=450&lines=Desenvolvedor+em+Forma%C3%A7%C3%A3o;Foco+em+Python+%7C+JS+%7C+MySQL" alt="Typing SVG" /></a>
 
 Estudante do curso técnico em Desenvolvimento de Sistemas em busca da minha primeira oportunidade de **estágio**. Meu foco é unir os conhecimentos técnicos que estou construindo com uma base sólida em gestão e estratégia.
 
