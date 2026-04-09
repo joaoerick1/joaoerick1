@@ -1,45 +1,36 @@
-# Olá, eu sou o Erick! 👋
+# Olá Mundo! Eu sou o João Erick 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Cloud+Computing;Redes+e+Infraestrutura;Cultura+DevOps;Inova%C3%A7%C3%A3o+%26+Neg%C3%B3cios)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Desenvolvedor+em+Formação;Foco+em+Python+%7C+JS+%7C+MySQL;Estagiário+com+Visão+de+Negócios" alt="Typing SVG" /></a>
 
-Sou um entusiasta de tecnologia com foco no que acontece "nos bastidores" das aplicações. Acredito que um excelente software precisa de uma fundação robusta para rodar com segurança e escalabilidade. 
-
-Minha jornada é focada em construir a ponte entre o desenvolvimento e as operações, unindo a técnica com uma visão voltada para o negócio e a experiência do usuário.
+Estudante do curso técnico em Desenvolvimento de Sistemas em busca da minha primeira oportunidade de **estágio**. Meu foco é unir os conhecimentos técnicos que estou construindo com uma base sólida em gestão e estratégia.
 
 ---
 
-### 🧠 Mindset e Abordagem
+## 🛠️ Tecnologias que Estudo
 
-Busco sempre atuar de forma estratégica em meus projetos. Antes de implementar qualquer tecnologia, gosto de entender:
-* **O Contexto do Negócio:** Qual problema real estamos resolvendo?
-* **A Viabilidade:** Como podemos criar um MVP (Produto Mínimo Viável) eficiente?
-* **A Resiliência:** Quais são os riscos e como garantimos a estabilidade da infraestrutura?
-
-Acredito que a inovação nasce do pensamento crítico e da colaboração em equipe.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-Estou construindo minha base técnica com foco em ambientes dinâmicos e de alta disponibilidade:
-
-> **Infraestrutura e Redes:** Cisco Packet Tracer | Topologias | Roteamento 
-> **Cloud e Deploy:** Vercel | Firebase | Fundamentos de Nuvem
-> **Automação e Versionamento:** Python | Git / GitHub 
-> **Estratégia e Segurança:** Modelagem de Startups | Cibersegurança e LGPD
+<div style="display: inline_block">
+  <img align="center" alt="João-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="João-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="João-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="João-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="João-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="João-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
 
 ---
 
-### 🚀 O que estou construindo no momento
+## 🧠 Gestão de Negócios & Aprendizados
 
-* 🏗️ **Arquitetura e Deploy:** Focando em integrar interfaces com bancos de dados e serviços em nuvem, garantindo entregas ágeis e seguras.
-* 📚 **Aprofundamento em Cloud/DevOps:** Expandindo meus conhecimentos práticos para dominar a sustentação de ambientes mais complexos e automatizados.
+Além do código, dedico tempo ao estudo de empreendedorismo e modelagem de negócios. Minha principal vivência prática nessa área foi a idealização do projeto **Wemuv** (uma proposta de marketplace local).
+
+Através desse projeto prático de ideação, desenvolvi minha **Visão de Produto**, aprofundando o entendimento sobre as dores do mercado, validação de ideias e estruturação de propostas de valor.
 
 ---
 
-### 🤝 Vamos nos conectar!
+## 📫 Vamos nos conectar?
 
-Estou sempre aberto a conversar sobre tecnologia, infraestrutura, startups e novos desafios.
+<a href="https://www.linkedin.com/in/joão-erick-queiroz-da-silva" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-erick-queiroz-da-silva-b5b27936b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoerickwlli@gmail.com)
+📧 **Email:** joaoerickwlli@gmail.com
