@@ -27,6 +27,15 @@ Através desse projeto prático de ideação, desenvolvi minha **Visão de Produ
 
 ---
 
+##  Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoerick1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoerick1&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
 ## 📫 Vamos nos conectar?
 
 <a href="https://www.linkedin.com/in/joão-erick-queiroz-da-silva" target="_blank">
