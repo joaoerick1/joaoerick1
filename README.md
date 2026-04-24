@@ -6,15 +6,17 @@ Estudante do curso técnico em Desenvolvimento de Sistemas em busca da minha pri
 
 ---
 
-## 🛠️ Tecnologias que Estudo
+## 🛠️ Tecnologias que Estudo e Utilizo
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img alt="João-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="João-JS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img alt="João-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="João-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="João-MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img alt="João-Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="João-PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img alt="João-Laravel" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
 </div>
 
 ---
@@ -26,12 +28,12 @@ Além do código, dedico tempo ao estudo de empreendedorismo e modelagem de neg�
 Através desse projeto prático de ideação, desenvolvi minha **Visão de Produto**, aprofundando o entendimento sobre as dores do mercado, validação de ideias e estruturação de propostas de valor.
 
 ---
-
-##  Minhas Estatísticas
+## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoerick1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoerick1&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoerick1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoerick1&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 ---
