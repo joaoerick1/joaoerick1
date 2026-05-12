@@ -21,23 +21,15 @@ Estudante do curso técnico em Desenvolvimento de Sistemas em busca da minha pri
 
 ---
 
-## 🧠 Gestão de Negócios & Aprendizados
+##  Gestão de Negócios & Aprendizados
 
 Além do código, dedico tempo ao estudo de empreendedorismo e modelagem de negócios. Minha principal vivência prática nessa área foi a idealização do projeto **Wemuv** (uma proposta de marketplace local).
 
 Através desse projeto prático de ideação, desenvolvi minha **Visão de Produto**, aprofundando o entendimento sobre as dores do mercado, validação de ideias e estruturação de propostas de valor.
 
 ---
-## 📊 Minhas Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoerick1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoerick1&layout=compact&langs_count=6&theme=dark"/>
-</div>
-
----
-
+ 
 ## 📫 Vamos nos conectar?
 
 <a href="https://www.linkedin.com/in/joão-erick-queiroz-da-silva" target="_blank">
